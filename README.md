@@ -90,3 +90,8 @@ Repozitoriyanı yerli mühitinizdə və ya Google Colab/Jupyter mühitində xət
    ```bash
    python generate_pdf_report.py
    ```
+4. **Google Colab for see ipynb file**
+   ```bash
+   https://colab.research.google.com/drive/1XJHPgXEqNQU7-5g7h_2MbmDNqMahXpFn?usp=sharing
+   ```
+   
